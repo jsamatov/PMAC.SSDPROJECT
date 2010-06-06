@@ -1,0 +1,10 @@
+Git works same as any version control application. The commands can be slightly different but concept is the same.
+But Git is lighter and faster than SVN and free hosting available at GitHub.
+If you want to learn Git in details and become Pro, read this:
+http://progit.org/book/
+
+For these who have experience with SVN but just learning Git this is a good reference:
+http://git.or.cz/course/svn.html
+
+For short list of main Git commands and descriptions for daily use read here:
+http://www.linuxfromscratch.org/blfs/edguide/chapter03.html
