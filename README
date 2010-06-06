@@ -7,4 +7,18 @@ For these who have experience with SVN but just learning Git this is a good refe
 http://git.or.cz/course/svn.html
 
 For short list of main Git commands and descriptions for daily use read here:
+
+This is a public repository where everybody pulls our application.
+
+Basically after you all set uo with Git and checked out our repository (git pull) the work flow now has to be as so:
+You should rebase every time before starting working on the application (in the morning)
+git rebase master
+
+Then when you want to make commit to your local depository (helps you to keep record on your changes) by using 
+git ci -a -m "Some message about changes you are committing"
+
+Then after you're done with your change you have to push all the local branches (local commits) 
+git push remote
+
+Read for more:
 http://www.linuxfromscratch.org/blfs/edguide/chapter03.html
